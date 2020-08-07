@@ -2,7 +2,8 @@
 
 1. Run "git clone https://github.com/Freedom777/mwdn"
 2. Run "composer install" from folder, where you copied files.
-3. Change .env file, according to environment settings, example
+3. Create database
+4. Change .env file, according to environment settings, example
 APP_URL=http://mwdn.test  
 DB_CONNECTION=mysql  
 DB_HOST=127.0.0.1  
@@ -11,8 +12,8 @@ DB_DATABASE=mwdn
 DB_USERNAME=root  
 DB_PASSWORD=
 
-4. Run "php artisan migrate".
-5. Enjoy 8) 
+5. Run "php artisan migrate".
+6. Enjoy 8) 
 
 **Usage**
 
