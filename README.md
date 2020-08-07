@@ -3,7 +3,7 @@
 1. Run "git clone https://github.com/Freedom777/mwdn"
 2. Run "composer install" from folder, where you copied files.
 3. Create database
-4. Change .env file, according to environment settings, example
+4. Change .env file, according to environment settings, example  
 APP_URL=http://mwdn.test  
 DB_CONNECTION=mysql  
 DB_HOST=127.0.0.1  
